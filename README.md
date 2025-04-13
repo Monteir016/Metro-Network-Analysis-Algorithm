@@ -79,7 +79,7 @@ Output:
 
 ## Dependencies
 - C++17 or later
-- Standard libraries: <iostream>, <vector>, <set>, <unordered_set>, <queue>
+- Standard libraries: `<iostream>`, `<vector>`, `<set>`, `<unordered_set>`, `<queue>`
 
 Author
 Developed by Guilherme Monteiro. For more information, visit [my GitHub profile](https://github.com/Monteir016).
